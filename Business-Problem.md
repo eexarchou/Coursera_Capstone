@@ -9,10 +9,8 @@ The cosmopolitan, diverse and intercultural spirit of Barcelona can be seen in t
 Despite the large population there is only a handful of Greek restaurants which offer a high
 quality menu for a middle-high level target audience. 
 
-
 The stake holder wants to fill this gap by opening a greek restaurant targeting a more
-gourmet clientele. Criteria to be
-considered: 
+gourmet clientele. Criteria to be considered: 
 
 - Density of other restaurants 
 - Other greek restaurants in the neighborhood  which are competition. 
