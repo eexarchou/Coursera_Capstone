@@ -1,0 +1,74 @@
+Neighborhood,Population
+el Raval  	       , 	48.297  
+el Barri Gòtic  ,	  	19.180  
+la Barceloneta  ,	  	15.173  
+Sant Pere Santa Caterina i la Ribera  ,	  	23.170  
+el Fort Pienc  	      ,	32.649  
+la Sagrada Família  ,		51.911  
+la Dreta de l'Eixample  ,		44.215  
+l'Antiga Esquerra de l'Eixample  	,	43.112  
+la Nova Esquerra de l'Eixample  	,	58.642  
+Sant Antoni  	,	38.566  
+el Poble Sec - AEI Parc Montjuïc  	,	40.409  
+la Marina del Prat Vermell - AEI Zona Franca  ,	  	1.199  
+la Marina de Port  	,	31.087  
+la Font de la Guatlla , 		10.373  
+Hostafrancs  ,		16.155  
+la Bordeta  ,		19.443  
+Sants - Badal , 		24.474  
+Sants  ,		42.310  
+les Corts , 		46.599  
+la Maternitat i Sant Ramon  ,		23.992  
+Pedralbes  	,	12.000  
+Vallvidrera el Tibidabo i les Plane,s  	  	4.727  
+Sarrià  	,	25.137  
+les Tres Torres , 		16.671  
+Sant Gervasi - la Bonanova,  		26.108  
+Sant Gervasi - Galvany , 		47.928  
+el Putxet i el Farró  	,	29.875  
+Vallcarca i els Penitents,  		15.902  
+el Coll  	 , 	7.518  
+la Salut  ,		13.431  
+la Vila de Gràcia  	 ,	50.803  
+el Camp d'en Grassot i Gràcia Nova , 		35.199  
+el Baix Guinardó  		,25.990  
+Can Baró  	  ,	9.247  
+el Guinardó  ,		37.216  
+la Font d'en Fargues  	 , 	9.506  
+el Carmel  	,	32.175  
+la Teixonera , 		11.789  
+Sant Genís dels Agudells  	  	,7.394  
+Montbau  	 , 	5.185  
+la Vall d'Hebron,  	  	5.803  
+la Clota  	  	,686  
+Horta  ,		27.482  
+Vilapicina i la Torre Llobeta,  		25.895  
+Porta  	,	26.557  
+el Turó de la Peira  	,	15.825  
+Can Peguera  	,2.143  	  
+la Guineueta  	,	15.398  
+Canyelles  	,7.539  	  
+les Roquetes  ,		16.250  
+Verdun  ,	12.301  	
+la Prosperitat  	,	26.834  
+la Trinitat Nova  	 , 	7.620  
+Torre Baró  ,	2.105  	  
+Ciutat Meridiana  	,	10.864  
+Vallbona  ,	1.267  	  
+la Trinitat Vella  	 , 	10.337  
+Baró de Viver  	  ,	2.604  
+el Bon Pastor  ,		13.126  
+Sant Andreu  	,	57.961  
+la Sagrera  	,	29.400  
+el Congrés i els Indians  	,	14.557  
+Navas  		,22.279  
+el Camp de l'Arpa del Clot  , 	39.034  
+el Clot  ,		27.172  
+el Parc i la Llacuna del Poblenou , 		15.713  
+la Vila Olímpica del Poblenou  	 , 	9.348  
+el Poblenou  	,	34.170  
+Diagonal Mar i el Front Marítim del Poblenou , 	13.625  
+el Besòs i el Maresme  	,	24.660  
+Provençals del Poblenou  ,		21.303  
+Sant Martí de Provençals  ,		26.168  
+la Verneda i la Pau   , 	28.883  
